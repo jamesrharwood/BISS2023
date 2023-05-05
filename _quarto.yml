@@ -1,0 +1,10 @@
+project:
+  type: 'website'
+  title: "biss2023"
+  output-dir: _output
+  preview:
+    port: 5656
+    browser: true
+    watch-inputs: true
+
+
