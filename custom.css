@@ -412,7 +412,7 @@ body {
 }
 .gallery.crop .quarto-layout-cell {
   overflow-y: hidden !important;
-  max-height: 360px !important;
+  max-height: 260px !important;
 }
 .footer img {
   display: block;
