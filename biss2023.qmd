@@ -5,7 +5,7 @@ format:
         logo: assets/ndorms-oxford.png
 css: custom.css
 ---
-# Increasing adherance to reporting guidelines using behaviour change theory {background-image=assets/ndorms-background.png background-position='100% 75%' background-size=45%}
+# Increasing adherence to reporting guidelines using behaviour change theory {background-image=assets/ndorms-background.png background-position='100% 75%' background-size=45%}
 
 ::: {.columns}
 
@@ -22,16 +22,16 @@ Dr Charlotte Albury, Dr Jennifer de Beyer, Dr Michael Schlüssel, Prof. Gary Col
 :::
 
 ::: {.notes} 
-I'll start with a warning - this talk includes a little bit of audience participation, so you have to pay attention.
+I'll start by warning you that this talk includes a _little bit_ of audience participation, so you have to pay attention.
 :::
 
 ## Background {background-image=assets/rgs.png background-position='bottom right' background-size=60%}
 
 Poorly described research 🚫 patient outcomes ☠️
 
-500+ Reporting guidelines
+Reporting guidelines solve this
 
-1/3 of journals
+1/3 of journals endorse them
 
 Limited Impact ❌ 
 
@@ -39,13 +39,17 @@ Limited Impact ❌
 :::
 
 ::: {.notes}
-Poorly described research doesn't improve patient outcomes.
+If you don't describe your work properly, other people can't use it. 
 
-Even though there are +500 RGs...
+That's why poorly reported medical research doesn't benefit patient outcomes. 
 
-...and even though a third of journals recommend at least some of them
+Reporting guidelines were created to solve this, by listing what researchers need to include in their articles. 
 
-Research articles still omit key information. 
+Research doesn't help patients when it's poorly reported.
+
+But even though a third of journals recommend them,
+
+a lot of medical research articles _still_ omit important information. 
 
 RGs have had limited impact...[TURN]
 :::
@@ -53,7 +57,7 @@ RGs have had limited impact...[TURN]
 ## Background {.has-image}
 
 ::: {.fragment .semi-fade-out}
-1: What limits reporting guideline adherance?
+1: What limits reporting guideline adherence?
 :::
 
 ::: {.fragment .fade-in-then-semi-out}
@@ -65,7 +69,7 @@ RGs have had limited impact...[TURN]
 :::
 
 ::: {.fragment .fade-in-then-semi-out}
-2: What could we do differently?
+2: How could these be fixed?
 
 Focus Groups ➡️ [136 ideas]{.rainbow}
 <br><br>
@@ -78,7 +82,7 @@ Focus Groups ➡️ [136 ideas]{.rainbow}
 ::: {.notes}
 ...and I spent the first year of my PhD trying to find out why through a synthesis of qualitative evidence and an audit of JAGs. 
 
-I found 32 factors that may limit RG adherance...
+I found 32 factors that may limit RG adherence...
 
 ...so I spent my 2nd year running focus groups that identified 136 ideas to address these limitations.
 
@@ -95,12 +99,8 @@ using...
 Framework: Behaviour Change Wheel
 
 ::: {.fragment fragment-index=4}
-Who: EQUATOR UK
-:::
-::: {.fragment fragment-index=5}
-How: 
+Workshops with the EQUATOR Network: 
 
-- Prioritise ideas
 - Behavioural analysis
 - Define components
 - Build intervention
@@ -128,22 +128,22 @@ How:
 :::
 
 ::: {.notes}
-...the behaviour change wheel - an evidence based framework, based on the COM-B model of behaviour, that helps you to systematically design and define behaviour change interventions.
+...the behaviour change wheel - a well-established framework that helps you to systematically design and define behaviour change interventions.
 
-You start with behavioural drivers. 
-* Capability - not knowing or understanding something, 
-* opportunity - not having time or resources, and 
-* motivation  - not wanting or needing something. 
+You start by diagnosing barriers caused by 
+* a lack of capability - not knowing or understanding something, 
+* a lack of opportunity - not having time or resources, and 
+* a lack of motivation. 
 
 You target these with different types of intervention. And interventions can be delivered in different ways. 
 
 To make a medical analogy, you can consider the middle ring to be drugs, and the other ring are how you administer them.
 
-This wheel seems simple but actually encompasses all techniques from behaviour change theory. 
+I lead a series of workshops with members of the UK EQUATOR Centre - based in Botnar - who are world leaders in creating, promoting, and disseminating, reporting guidelines. 
 
-I helped the EQUATOR Network - based in Botnar - to use the wheel to do a behavioural analysis of the barriers and ideas, and to design intervention changes. 
+We used this framework to analyse the barriers and ideas, and design intervention changes.
 
-We were starting with a long list of ideas - 136 of them...
+Here is an example...
 :::
 
 ## Prioritising ideas 
@@ -166,7 +166,7 @@ Some were pretty simple.
 
 ...Others were pretty radical. 
 
-...So _first_ we needed to prioritize ideas according to their...
+...So _first_ I needed to prioritize ideas according to their...
 :::
 
 ## Prioritising ideas
@@ -200,13 +200,11 @@ Some were pretty simple.
 :::
 
 ::: {.notes}
-Affordability, Practicablility, likely Efficacy, Acceptability, Side-effects, and Equity. Together these are the APEASE criteria. 
+Affordability, Practicability, likely Efficacy, Acceptability, Side-effects, and Equity. Together these are the APEASE criteria. 
 
-...and we ended up ruling out incentivization, restriction and coerscion as types of intervention because we found them to be inequitable and potentially unacceptable. 
+...and they ruled out incentivization, restriction and coercion as interventions because they found them to be inequitable and potentially unacceptable. 
 
-...With regards to delivery options, as a small research unit we don't have the power to create new laws or offer money. 
-
-...EQUATOR _could_ offer new services, but I, as a PhD student, was limited to improving things that already exist. 
+...With regards to delivery options, EQUATOR had to be realistic. As a small research team they can't create laws or offer funding, but they _can_ offer new services and I, as a PhD student, can improve things that already exist. 
 
 ...I'll show you some examples
 :::
@@ -218,13 +216,9 @@ Affordability, Practicablility, likely Efficacy, Acceptability, Side-effects, an
 ![](assets/STROBE1.png){}
 
 ::: {.notes}
-Here's the STROBE checklist. The most used reporting guideline checklist.
+Here's the STROBE checklist. Authors often fill it out when submitting to a journal, but they don't know that really they should read the _full guidance_ (published separately) and they should read it before they start to write. 
 
-Authors often fill this out as a beurocratic part of journal submission, when it's far too late to act on the guidance, and they may never read the full guidance, which is in a separate publication.
-
-How could we fix this? 
-
-One of the 136 ideas, a real mind-blowing rocket-science idea, is...
+So the first mind-blowing rocket-science idea, is...
 :::
 
 ## Designing intervention components
@@ -234,7 +228,7 @@ One of the 136 ideas, a real mind-blowing rocket-science idea, is...
 ![](assets/STROBE2.png)
 
 ::: {.notes}
-...to _TELL_ authors to read the full guidance before they write. Some authors simply won't know that guidance exists, or when to use it. So we should tell them. This is an example of using education to target capability.
+...to _TELL_ authors to read the full guidance as early as possible. This is an example of using education to target a lack of knowledge - a lack of capability.
 :::
 
 ## Designing intervention components
@@ -244,7 +238,7 @@ One of the 136 ideas, a real mind-blowing rocket-science idea, is...
 ![](assets/STROBE3.png)
 
 ::: {.notes}
-...we could including tools specifically for earlier stages of work, using _enablement_ to target an _opportunity_ barrier. 
+...you could including tools specifically for earlier stages of work, using _enablement_ to target an _opportunity_ barrier. 
 :::
 
 ## Designing intervention components
@@ -254,14 +248,19 @@ One of the 136 ideas, a real mind-blowing rocket-science idea, is...
 ![](assets/STROBE4.png)
 
 ::: {.notes}
-...and we could use _persuasion_ to _motivate_ authors to use guidance.
+...and you could use _persuasion_ to _motivate_ authors to use guidance.
 
-This is an example of how you can "design" a single sentence, using multiple intervention functions - education, enablement, and persuasion - to target barriers driven by a lack of capability, opportunity, and motication.
+So here I am "designing" a single sentence to target multiple barriers using multiple intervention types.
 :::
 
 ## Designing intervention components
 
 ::: {.fragments}
+
+➡️  51 intervention components
+
+::: {.fragment}
+
 Each [intervention component]{.blue} is defined by the [intervention function]{.orange} it uses
 :::
 
@@ -273,22 +272,21 @@ Each [intervention component]{.blue} is defined by the [intervention function]{.
 &emsp;&emsp;⮑ that underpins an existing [barrier]{.red}
 :::
 
-::: {.fragment}
-➡️ 51 intervention components
 :::
+
 
 ## {.small}
 
 **Item 5. Qualitative approach and research paradigm:**
 
 ::: {.fragments}
-The research paradigm is the set of beliefs and assumptions that guide the research process. These commonly include positivist, post-positivist, constructivist or interpretivist, and critical theory. Qualitative research generally draws from a post-positivist or constructivist/interpretivist paradigm. [We recommend identifying the research paradigm]{.fragment .highlight-red fragment-index=1} so that readers understand whether the researcher assumes that there is a single, objective reality (positivist or post-positivist) and has thus designed the study to describe this reality or whether the researcher assumes multiple, subjective realities and designed the study to describe these multiple realities, with no attempt to merge or reconcile these realities (constructivist/interpretivist). The paradigm has implications for the study design, approach, methods, and techniques to ensure rigor and trustworthiness.
+The research paradigm is the set of beliefs and assumptions that guide the research process. These commonly include positivist, post-positivist, constructivist or interpretivist, and critical theory. Qualitative research generally draws from a post-positivist or constructivist/interpretivist paradigm. [We recommend identifying the research paradigm]{.fragment .highlight-red fragment-index=1} so that readers understand whether the researcher assumes that there is a single, objective reality (positivist or post-positivist) and has thus designed the study to describe this reality or whether the researcher assumes multiple, subjective realities and designed the study to describe these multiple realities, with no attempt to merge or reconcile these realities (constructivist/interpretivist). The paradigm has implications for the study design, approach, methods, and techniques to ensure rigour and trustworthiness.
 
 Qualitative research includes an array of approaches and methodologies, both general (e.g., qualitative content analysis, general inductive approach) and specific (e.g., ethnography, grounded theory, phenomenography). Since the research paradigm does not necessarily dictate particular approaches or methods, [the approach should also be clearly defined]{.fragment .highlight-red fragment-index=1}. Stating the approach provides readers the opportunity to evaluate the fidelity of the research approach to the research question(s) and consider the rationale for modifications and deviations from the selected approach. Qualitative research also includes an array of methods that can be used across paradigms and approaches. (See also Item 10) [The researcher should explain why the selected approach is appropriate for the research question]{.fragment .highlight-red fragment-index=1}, and [provide references to theories or traditions that guide the use of the approach as needed]{.fragment .highlight-red fragment-index=1}.
 :::
 
 ::: {.notes}
-We can do the same with entire paragraphs
+You can do the same with entire paragraphs
 
 You don't need to read all this, but see if you tell how many things it's advising you to write.
 
@@ -299,25 +297,40 @@ It's not easy.
 mixed up with background information, justification, definitions.
 :::
 
-## {background-image="assets/item.png" background-size=contain}
+## {background-image="assets/Item.png" background-size=contain}
 
 ::: {.notes}
-...campared with this
+...compared with this
 
-You can imediately see 4 chunks of consice text. We've moved the definitions to pop-ups - those dotted lines - and justification and examples are there in the dropdown if you need them. 
+You can immediately see 4 chunks of concise text. I've moved the definitions to pop-ups - those dotted lines - and justification and examples are in the dropdown if you need them. 
 
-We've used direct language and tried to be reassuring, and added a discussion feature to ask questions and give feedback. 
+I've used direct language and tried to be reassuring, and added a discussion feature to ask questions and give feedback. 
 :::
 
 # Participation time {background-image="assets/EQUATOR-Home.png" background-size=contain .blur}
 
+::: {.notes}
 
+So You can redesign text, but what about a web page, such the EQUATOR Network home page, where a million authors come seeking reporting guidelines every year.
+
+Now is your moment. I'm going to show you the home page and I'd like to you to raise your hand once you find the search button. I'm going to give you 5 seconds. Ready? Go!
+:::
 
 ## {background-image="assets/EQUATOR-Home.png" background-size=contain}
+
+::: {.notes}
+Not many hands! Half of the million authors that use this site, leave within 5 seconds without doing anything. 500,000 people that EQUATOR could be helping, but aren't.
+:::
 
 ## {background-image="assets/EQUATOR-Home-labelled.png" background-size=contain}
 
 ::: footer
+:::
+
+::: {.notes}
+
+That might be because very little of the page is targeting behaviour - the highlighted bits. 
+
 :::
 
 ## {background-image="assets/home-labelled.png" background-size=contain}
@@ -325,53 +338,82 @@ We've used direct language and tried to be reassuring, and added a discussion fe
 ::: footer
 :::
 
+::: {.notes}
+Compare this, where every part of the home page is designed to target the behaviour I'm interested in. I'm using Education, Persuasion, Enablement, Modelling. 
+
+But it's not just the content and design you could change...
+:::
+
 ## {background-image="assets/sankey.png" background-size=contain}
+
+::: {.notes}
+You could change the layout of the whole site. On the old site, users had 5 steps to reach the actual guidance, and plenty drop off at each stage, meaning only a quarter of people get the guidance. 
+:::
 
 ## {background-image="assets/sankey-after-2.png" background-size=contain}
 
-##
-
-::: {layout-ncol=2 .gallery .crop}
-
-![](assets/STROBE4.png)
-
-![](assets/sankey-after-2.png)
-
-![](assets/item.png)
-
-![](assets/home-labelled.png)
-
+::: {.notes}
+By reorganising the site, I can cut the dropouts significantly. 
 :::
 
 ## Summary
 
 ::: {.fragments}
 
-::: {.fragment .fade-in-then-semi-out}
 136 ideas ➡️ 51 intervention changes
-:::
 
 ::: {.fragment .fade-in-then-semi-out}
-Each [change]{.blue} is defined by the [intervention function]{.orange} it uses
+Each [intervention change]{.blue} is defined by the [intervention function]{.orange} it uses
 
 &emsp;⮑ to target a [behavioural driver]{.green}
 
 &emsp;&emsp;⮑ that underpins an existing [barrier]{.red}
 :::
 
-::: {.fragment .fade-in-then-semi-out}
-An improved system to disseminate reporting guidance
 :::
 
-::: {.fragment .fade-in-then-semi-out}
-Next: Pilot 
+::: {.notes}
+To summarise, I used the behaviour change wheel to turn 136 ideas into 51 intervention components. 
+
+Each one is defined by the type of intervention it is using, the behavioural driver it is targeting, and the barrier that it is addressing. 
+:::
+
+## Improved system
+
+::: {layout-ncol=2 .gallery .crop}
+
+![](assets/STROBE4.png)
+
+![](assets/Item.png)
+
+![](assets/home-labelled.png)
+
+![](assets/sankey-after-2.png)
+
+:::
+
+::: {.notes}
+When viewed together, these changes amount to a complete redesign of the system through which reporting guidelines are disseminated, including the content and layout of the guidance itself, and the websites that distribute them. 
+:::
+
+## Next steps
+
+::: {.fragments}
+
+Now: Pilot 
 
 Future: Evaluation
-:::
 
 ::: {.fragment}
 Hope: [Better reporting & better patient outcomes]{.rainbow}
 :::
 :::
+
+::: {.notes}
+I am now piloting these changes in a qualitative study inclusing researchers from all around the world, and hope to evaluate whether this new intervention has an effect on reporting quality in published medical research articles. 
+
+And I hope that it does, because beter reporting leads to better patient outcomes.
+:::
+
 
 # Questions?
