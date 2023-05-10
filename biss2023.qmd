@@ -452,5 +452,18 @@ and hope to evaluate whether this new intervention improves the reporting of med
 And I hope that it does, because better reporting leads to better patient outcomes.
 :::
 
+# Developing a behaviour change intervention to increase adherence to reporting guidelines {background-image=assets/ndorms-background.png background-position='100% 75%' background-size=45%}
 
-# Questions?
+::: {.columns}
+
+::: {.column width=70%}
+<br>
+James Harwood
+
+Dr Charlotte Albury, Dr Jennifer de Beyer, Dr Michael Schlüssel, Prof. Gary Collins
+:::
+
+::: {.column width=30%}
+:::
+
+:::
