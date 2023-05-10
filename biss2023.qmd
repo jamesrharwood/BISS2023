@@ -456,14 +456,16 @@ And I hope that it does, because better reporting leads to better patient outcom
 
 ::: {.columns}
 
-::: {.column width=70%}
+::: {.column width=80%}
 <br>
 James Harwood
 
 Dr Charlotte Albury, Dr Jennifer de Beyer, Dr Michael Schlüssel, Prof. Gary Collins
 :::
 
-::: {.column width=30%}
+::: {.column width=20%}
+![](assets/equator-logo.png)
+![](assets/cruk-logo.png)
 :::
 
 :::
